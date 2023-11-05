@@ -1,0 +1,41 @@
+body  {
+    font-size: 20px;
+    font-family: 'Roboto';
+    background-color; #85E6C5;
+}
+ p {
+    color: #192655;
+    margin: 25px 0;
+ }
+
+h1 {
+    color: DODGERBLUE;
+    font-size: 60px;
+}
+
+div {
+    width: 70%;
+    margin: auto;
+    padding: 50px;
+    background-color:#F9DEC9;
+    box-shadow: 0 0 10px rgba(100,0,02);
+}
+
+a { 
+    text-decoration: none;
+    color: red;
+    display: block;
+    margin: 20px 0;
+    border-bottom:#192655;
+    transition: 0.2s ease-in;
+}
+
+img {       
+    max-width:100%;
+    height: auto;
+    display: block;
+}
+
+a:hover {
+    border-bottom-color: #1150d8;
+}
